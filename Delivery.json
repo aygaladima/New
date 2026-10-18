@@ -1,0 +1,87 @@
+{
+  "filename": "ForgePass_1100_Preview_Volumetric_Samples.zip",
+  "bytes": 27202940,
+  "sha256": "3b9f776e2276bcd63a7c4ac1aea29ab97bd42378edc6192d8c82e3a00aa6dad7",
+  "sample_artworks": 2,
+  "collection_plan": {
+    "Preview": 990,
+    "Volumetric": 110
+  },
+  "members": [
+    {
+      "path": "artwork/Circuit_Preview_Sample.png",
+      "bytes": 447193,
+      "sha256": "8d56ed2fd3bc32297d8ba58ab2e121b40071a33efa2b0d46c830616b84a68b3b"
+    },
+    {
+      "path": "artwork/Circuit_Volumetric_Sample.gif",
+      "bytes": 25416033,
+      "sha256": "e88d3068e01617b6c7efc93f65b37629e4dda69bc77871ed54ff3f7404c39252"
+    },
+    {
+      "path": "artwork/Circuit_Volumetric_Sample.png",
+      "bytes": 1041921,
+      "sha256": "b7053268a036fe92657f57593636401507edc2304afc7955390ccb160d29d226"
+    },
+    {
+      "path": "source/create_samples.py",
+      "bytes": 8921,
+      "sha256": "a87382973af6a41583bcb3b26220110d7d565d915868e96e654c6e54a96680a4"
+    },
+    {
+      "path": "source/families_geometric.py",
+      "bytes": 11432,
+      "sha256": "fa90cb76a99337694956488f6907b4f34d7e539b09e5ea902f29175033f96072"
+    },
+    {
+      "path": "source/families_organic.py",
+      "bytes": 15611,
+      "sha256": "f3a9873ffd99b1ea03b51e5479c7f4f27ddacacf92b4a34572f8a6bcd0cb91da"
+    },
+    {
+      "path": "source/preview_geometry.py",
+      "bytes": 5181,
+      "sha256": "fbbf8b5a56cfdfd070c06d231c7a0a0a163a0b081e0bcbdb55cd0ed004eb3a3f"
+    },
+    {
+      "path": "source/style.py",
+      "bytes": 8893,
+      "sha256": "d2a3b8bd0d9143f7e3a19273e5ed36b1f5e67e4b6bf2e457762a35cd9da3ef56"
+    },
+    {
+      "path": "source/Preview_Geometry.json",
+      "bytes": 14116,
+      "sha256": "c31cee42dabb0c59b96f0df6227dd219d6b18bed842e103b69f9eae7444e0c89"
+    },
+    {
+      "path": "source/Volumetric_Geometry.json",
+      "bytes": 18195,
+      "sha256": "a4909cc6fb05a9034c8f5bce95ac2ba66f575b8bb55d58f31993c7c65983ae1a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3281,
+      "sha256": "5b854d0173d054a88bcf9e62b01b59d32fa7a98b3925836a3e5e39525e77c679"
+    },
+    {
+      "path": "Collection_Plan.json",
+      "bytes": 1324,
+      "sha256": "1f9f3db38cb37d207efc2fbbf54b5bb21ea5f3e79ce82dcad7299470214928ee"
+    },
+    {
+      "path": "Validation.json",
+      "bytes": 1075,
+      "sha256": "8a65c713242cecfb291246722cea3547122ee350276a4ae0b253591fd919bbab"
+    },
+    {
+      "path": "ForgePass_1100_Sample_Comparison.jpg",
+      "bytes": 372684,
+      "sha256": "c33923cf9719da18cb52bd271f23a3f549af4673fc8ddbcde7833750c82fb82c"
+    },
+    {
+      "path": "Volumetric_Loop_Keyframes.jpg",
+      "bytes": 272480,
+      "sha256": "4a8da78226d4eb9d45defd3a80902d8da9afe1b1767be1b151934c84fb9e694b"
+    }
+  ]
+}

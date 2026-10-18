@@ -1,0 +1,68 @@
+{
+  "collection": "Forge Pass",
+  "edition_size": 1100,
+  "tier_counts": {
+    "Preview": 990,
+    "Volumetric": 110
+  },
+  "family_count": 11,
+  "per_family": {
+    "Preview": 90,
+    "Volumetric": 10,
+    "total": 100
+  },
+  "families": [
+    "Circuit",
+    "Lightning",
+    "Coral",
+    "Frost",
+    "Roots",
+    "Trident",
+    "Crown",
+    "Lattice",
+    "Cascade",
+    "Bonsai",
+    "Starburst"
+  ],
+  "planned_media_files": {
+    "png": 1100,
+    "gif": 110
+  },
+  "status": "Collection allocation approved; two sample artworks rendered for review",
+  "sample_artworks": [
+    {
+      "family": "Circuit",
+      "tier": "Preview",
+      "name": "Quad Circuit",
+      "main_assemblies": 4,
+      "large_junctions": 4,
+      "framing_rings": 1,
+      "files": [
+        "Circuit_Preview_Sample.png"
+      ]
+    },
+    {
+      "family": "Circuit",
+      "tier": "Volumetric",
+      "name": "Six-Gate Bloom",
+      "main_assemblies": 6,
+      "large_outer_junctions": 6,
+      "visible_framing_rings_at_maximum_separation": 3,
+      "files": [
+        "Circuit_Volumetric_Sample.gif",
+        "Circuit_Volumetric_Sample.png"
+      ]
+    }
+  ],
+  "png_dimensions": [
+    2048,
+    2048
+  ],
+  "gif_dimensions": [
+    1000,
+    1000
+  ],
+  "volumetric_fps": 20,
+  "volumetric_seconds": 12,
+  "artwork_ids_assigned": false
+}
