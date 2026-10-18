@@ -1,0 +1,79 @@
+{
+  "complete": true,
+  "stage": "Eleven representative family studies",
+  "artwork_png_count": 11,
+  "png_size": [
+    2048,
+    2048
+  ],
+  "colour_and_grayscale_comparisons_visually_reviewed": true,
+  "all_png_hashes_unique": true,
+  "samples": [
+    {
+      "family": "Circuit",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "8fa310554c2f99612f2f3b2a10cf2b1abf3abb6356023db426e2dbab1c2f84ad"
+    },
+    {
+      "family": "Lightning",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "f8e2be6ab3bbfe9cb3d4d9b9e5c8db593812774788c05994cc0433be073ce37d"
+    },
+    {
+      "family": "Coral",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "dda92ef04ef1d7eb9cc3a890c8a6b2e58b157085640ccc5744d6db537b208915"
+    },
+    {
+      "family": "Frost",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "0e66f996274139bafdaa281ebd7bbb038fa67303810890cd61f62dcc5769c35a"
+    },
+    {
+      "family": "Roots",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "12c70eaf9e255b11076fb0c9f0eff4eaef695a854d8482b05c396000e7408fa7"
+    },
+    {
+      "family": "Trident",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "0f7a03bb2ad8083e267ecabbca8350d588c2b59fd64a575673c0fac6cddc2098"
+    },
+    {
+      "family": "Crown",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "2c725e0d1f92bdb668b342cb65b50e34d02f146f064a781ff9de73c70da68c93"
+    },
+    {
+      "family": "Lattice",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "33b7080160117fe35d6912b9186a47bfb8a3abdd9ebf3f1f3dc046bf5c9d63f5"
+    },
+    {
+      "family": "Cascade",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "ac460f2199a81e7ff865abbf27c7de61b880d895f22510aeb5ae8dea27f737d4"
+    },
+    {
+      "family": "Bonsai",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "de1d5a480d6e925f4791d0bf9744a613ae4c931d7058ee2f1a77dc585e6b612a"
+    },
+    {
+      "family": "Starburst",
+      "full_resolution_png_verified": true,
+      "source_geometry_matches": true,
+      "sha256": "adc7e7ef938285ec102657a022e5df542c3a41b67fa29bc209bad0e09ba1d7c1"
+    }
+  ]
+}

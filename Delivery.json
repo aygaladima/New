@@ -1,0 +1,172 @@
+{
+  "filename": "ForgePass_V2_11_Distinct_Families.zip",
+  "bytes": 9336201,
+  "sha256": "1810281cb331e71ff3628c4a0c1f2b0ed24d6b5c6bd0419c595308e087bb822f",
+  "members": [
+    {
+      "path": "artwork/ForgePass_V2_01_Circuit.png",
+      "bytes": 852144,
+      "sha256": "8fa310554c2f99612f2f3b2a10cf2b1abf3abb6356023db426e2dbab1c2f84ad"
+    },
+    {
+      "path": "artwork/ForgePass_V2_02_Lightning.png",
+      "bytes": 595089,
+      "sha256": "f8e2be6ab3bbfe9cb3d4d9b9e5c8db593812774788c05994cc0433be073ce37d"
+    },
+    {
+      "path": "artwork/ForgePass_V2_03_Coral.png",
+      "bytes": 1015907,
+      "sha256": "dda92ef04ef1d7eb9cc3a890c8a6b2e58b157085640ccc5744d6db537b208915"
+    },
+    {
+      "path": "artwork/ForgePass_V2_04_Frost.png",
+      "bytes": 710764,
+      "sha256": "0e66f996274139bafdaa281ebd7bbb038fa67303810890cd61f62dcc5769c35a"
+    },
+    {
+      "path": "artwork/ForgePass_V2_05_Roots.png",
+      "bytes": 713731,
+      "sha256": "12c70eaf9e255b11076fb0c9f0eff4eaef695a854d8482b05c396000e7408fa7"
+    },
+    {
+      "path": "artwork/ForgePass_V2_06_Trident.png",
+      "bytes": 413672,
+      "sha256": "0f7a03bb2ad8083e267ecabbca8350d588c2b59fd64a575673c0fac6cddc2098"
+    },
+    {
+      "path": "artwork/ForgePass_V2_07_Crown.png",
+      "bytes": 720832,
+      "sha256": "2c725e0d1f92bdb668b342cb65b50e34d02f146f064a781ff9de73c70da68c93"
+    },
+    {
+      "path": "artwork/ForgePass_V2_08_Lattice.png",
+      "bytes": 573092,
+      "sha256": "33b7080160117fe35d6912b9186a47bfb8a3abdd9ebf3f1f3dc046bf5c9d63f5"
+    },
+    {
+      "path": "artwork/ForgePass_V2_09_Cascade.png",
+      "bytes": 711369,
+      "sha256": "ac460f2199a81e7ff865abbf27c7de61b880d895f22510aeb5ae8dea27f737d4"
+    },
+    {
+      "path": "artwork/ForgePass_V2_10_Bonsai.png",
+      "bytes": 602148,
+      "sha256": "de1d5a480d6e925f4791d0bf9744a613ae4c931d7058ee2f1a77dc585e6b612a"
+    },
+    {
+      "path": "artwork/ForgePass_V2_11_Starburst.png",
+      "bytes": 630398,
+      "sha256": "adc7e7ef938285ec102657a022e5df542c3a41b67fa29bc209bad0e09ba1d7c1"
+    },
+    {
+      "path": "geometry/Bonsai_geometry.json",
+      "bytes": 64756,
+      "sha256": "568eb8c97bb0663169934b422a7c8b6e80a9e4794dfc25025b351f21010a043d"
+    },
+    {
+      "path": "geometry/Cascade_geometry.json",
+      "bytes": 69262,
+      "sha256": "21c7f081780f213f779c840299243407a752181ce1d3a8182db4edfe36d1a8c7"
+    },
+    {
+      "path": "geometry/Circuit_geometry.json",
+      "bytes": 17213,
+      "sha256": "37db8089bac4d65d89cc63c13fd76fe9fe436ff262711b34901562f953a87edb"
+    },
+    {
+      "path": "geometry/Coral_geometry.json",
+      "bytes": 109876,
+      "sha256": "a9fed0c7bee4f63764ff7459658052aaf915ecc85a3cb70541e7b38bb6636c2f"
+    },
+    {
+      "path": "geometry/Crown_geometry.json",
+      "bytes": 55151,
+      "sha256": "6b0962bb1b5720f4a2b55f37b6893eed443dbb92cfb7178ff8ff88f1709bf828"
+    },
+    {
+      "path": "geometry/Frost_geometry.json",
+      "bytes": 26017,
+      "sha256": "325f0b284a51043eaab1970a653c0b64668c4f0c97d3c27ba930735d8cc7e728"
+    },
+    {
+      "path": "geometry/Lattice_geometry.json",
+      "bytes": 13827,
+      "sha256": "a0d99928e5c419a556ac5c67512430c85b68581156213503c5dc442b42ea5572"
+    },
+    {
+      "path": "geometry/Lightning_geometry.json",
+      "bytes": 9278,
+      "sha256": "3717d6388a87d73a4afad308ff832dd68e75bfa86e7d679818d228f83cba685e"
+    },
+    {
+      "path": "geometry/Roots_geometry.json",
+      "bytes": 79197,
+      "sha256": "5e262302a0eb414ef66da9254d929a1310053109803ee5fd1a2f3a1a9803a022"
+    },
+    {
+      "path": "geometry/Starburst_geometry.json",
+      "bytes": 9862,
+      "sha256": "895c466699218fb13be2f730e6a52c5f410c98dcb036a095e06ce1dd794eda57"
+    },
+    {
+      "path": "geometry/Trident_geometry.json",
+      "bytes": 6784,
+      "sha256": "ac85523340af903c7cbca1845a8db8805dc90406a328aa4c1746394ffb0335a3"
+    },
+    {
+      "path": "source/families_geometric.py",
+      "bytes": 11432,
+      "sha256": "fa90cb76a99337694956488f6907b4f34d7e539b09e5ea902f29175033f96072"
+    },
+    {
+      "path": "source/families_organic.py",
+      "bytes": 15611,
+      "sha256": "f3a9873ffd99b1ea03b51e5479c7f4f27ddacacf92b4a34572f8a6bcd0cb91da"
+    },
+    {
+      "path": "source/package_review.py",
+      "bytes": 2668,
+      "sha256": "727305cb58b3be9d3b1789e20c46d89489b3f4865a23978d5751ab6f91ab8935"
+    },
+    {
+      "path": "source/render_review.py",
+      "bytes": 12415,
+      "sha256": "e281ccb45dba9799a2c5b48c3e693827c98262ea64b4bee879c670fbccbfc4e4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3897,
+      "sha256": "216648d3ceb015a888d7121861dcb890482dfa01d626b45a70608c4367a0aaeb"
+    },
+    {
+      "path": "Review_Manifest.json",
+      "bytes": 6069,
+      "sha256": "a2fe8083fb2be5d287d121ac884997b763f357cd15922380eaef37c0b51f0861"
+    },
+    {
+      "path": "Review_Validation.json",
+      "bytes": 2516,
+      "sha256": "93179574561a0b75ac5de623c45be0c247b387266a4b28a427924ede14004f6f"
+    },
+    {
+      "path": "ForgePass_V2_Comparison.jpg",
+      "bytes": 617273,
+      "sha256": "78bc1916cdeaf6a474d86285779c67332dea6f784dc24d9bb536f12e3e6135d2"
+    },
+    {
+      "path": "ForgePass_V2_Comparison_A.jpg",
+      "bytes": 453158,
+      "sha256": "8867efbedc0b5b42c48ff89edb79ed295ed4c41b4d7bb29589c3c53abb9341f1"
+    },
+    {
+      "path": "ForgePass_V2_Comparison_B.jpg",
+      "bytes": 377092,
+      "sha256": "4a1b2f89dfde4e8a792ea9bddfc5794da2727f6596337dcad1db74feac43b1cc"
+    },
+    {
+      "path": "ForgePass_V2_Grayscale_Comparison.jpg",
+      "bytes": 472377,
+      "sha256": "86f0cd8172fa1d5e85a11f53f7ae3f7219e3a74c3546e90ad3aeaf79ba37407b"
+    }
+  ]
+}

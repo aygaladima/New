@@ -1,0 +1,223 @@
+{
+  "collection": "Forge Pass",
+  "revision": "V2 \u2014 distinct design families",
+  "status": "Representative design review; revised 198-piece collection not yet rendered",
+  "representative_count": 11,
+  "planned_artwork_count": 198,
+  "planned_tiers": {
+    "Preview": 99,
+    "Motion": 66,
+    "Volumetric": 33
+  },
+  "samples": [
+    {
+      "family": "Circuit",
+      "file": "ForgePass_V2_01_Circuit.png",
+      "bytes": 852144,
+      "sha256": "8fa310554c2f99612f2f3b2a10cf2b1abf3abb6356023db426e2dbab1c2f84ad",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#14bee2",
+        "#2752d7",
+        "#c7e6f5"
+      ],
+      "path_count": 30,
+      "framing_rings": 2,
+      "nodes": 13,
+      "description": "Six stepped circuit assemblies with square elbows, paired right-angle branches and two segmented enclosing rings."
+    },
+    {
+      "family": "Lightning",
+      "file": "ForgePass_V2_02_Lightning.png",
+      "bytes": 595089,
+      "sha256": "f8e2be6ab3bbfe9cb3d4d9b9e5c8db593812774788c05994cc0433be073ce37d",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#f8aa27",
+        "#ea4818",
+        "#d3f1ff"
+      ],
+      "path_count": 18,
+      "framing_rings": 1,
+      "nodes": 1,
+      "description": "Three broad, asymmetric lightning bolts, abrupt angular forks, white-hot tips and a sparse broken halo."
+    },
+    {
+      "family": "Coral",
+      "file": "ForgePass_V2_03_Coral.png",
+      "bytes": 1015907,
+      "sha256": "dda92ef04ef1d7eb9cc3a890c8a6b2e58b157085640ccc5744d6db537b208915",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#a346e7",
+        "#18cac2",
+        "#f860b3"
+      ],
+      "path_count": 52,
+      "framing_rings": 3,
+      "nodes": 1,
+      "description": "Four sweeping coral lobes, rounded forks, and three concentric fine halos."
+    },
+    {
+      "family": "Frost",
+      "file": "ForgePass_V2_04_Frost.png",
+      "bytes": 710764,
+      "sha256": "0e66f996274139bafdaa281ebd7bbb038fa67303810890cd61f62dcc5769c35a",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#65caef",
+        "#bad0e7",
+        "#a889eb"
+      ],
+      "path_count": 56,
+      "framing_rings": 1,
+      "nodes": 1,
+      "description": "Eight crystalline spears with regular needle forks, translucent-looking terminal facets and one fine enclosing circle."
+    },
+    {
+      "family": "Roots",
+      "file": "ForgePass_V2_05_Roots.png",
+      "bytes": 713731,
+      "sha256": "12c70eaf9e255b11076fb0c9f0eff4eaef695a854d8482b05c396000e7408fa7",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#1ca660",
+        "#17b5af",
+        "#efba4b"
+      ],
+      "path_count": 36,
+      "framing_rings": 1,
+      "nodes": 1,
+      "description": "Asymmetric spreading roots: six sinuous trunks, tapered side roots, and an offset halo."
+    },
+    {
+      "family": "Trident",
+      "file": "ForgePass_V2_06_Trident.png",
+      "bytes": 413672,
+      "sha256": "0f7a03bb2ad8083e267ecabbca8350d588c2b59fd64a575673c0fac6cddc2098",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#d92d45",
+        "#5f7290",
+        "#f6a32d"
+      ],
+      "path_count": 12,
+      "framing_rings": 0,
+      "nodes": 7,
+      "description": "Three substantial mechanical stems, each dividing into exactly three long prongs around a circular junction."
+    },
+    {
+      "family": "Crown",
+      "file": "ForgePass_V2_07_Crown.png",
+      "bytes": 720832,
+      "sha256": "2c725e0d1f92bdb668b342cb65b50e34d02f146f064a781ff9de73c70da68c93",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#e0a42a",
+        "#9aaae3",
+        "#f4eac8"
+      ],
+      "path_count": 23,
+      "framing_rings": 1,
+      "nodes": 3,
+      "description": "An upright seven-point branching fan rises from a low golden core, framed by one open halo."
+    },
+    {
+      "family": "Lattice",
+      "file": "ForgePass_V2_08_Lattice.png",
+      "bytes": 573092,
+      "sha256": "33b7080160117fe35d6912b9186a47bfb8a3abdd9ebf3f1f3dc046bf5c9d63f5",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#2969e5",
+        "#9e48e0",
+        "#22d6dc"
+      ],
+      "path_count": 40,
+      "framing_rings": 0,
+      "nodes": 4,
+      "description": "Four heavy diagonal spars with four circular junctions and a square cross-braced open lattice; no outer ring."
+    },
+    {
+      "family": "Cascade",
+      "file": "ForgePass_V2_09_Cascade.png",
+      "bytes": 711369,
+      "sha256": "ac460f2199a81e7ff865abbf27c7de61b880d895f22510aeb5ae8dea27f737d4",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#b3cfde",
+        "#1fb8b9",
+        "#4865ad"
+      ],
+      "path_count": 30,
+      "framing_rings": 2,
+      "nodes": 1,
+      "description": "A high suspended core carries a curved canopy of long, downward hanging branches inside two offset halos."
+    },
+    {
+      "family": "Bonsai",
+      "file": "ForgePass_V2_10_Bonsai.png",
+      "bytes": 602148,
+      "sha256": "de1d5a480d6e925f4791d0bf9744a613ae4c931d7058ee2f1a77dc585e6b612a",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#c16f42",
+        "#30a67e",
+        "#e6b850"
+      ],
+      "path_count": 27,
+      "framing_rings": 1,
+      "nodes": 8,
+      "description": "One sculptural copper trunk supports a broad asymmetric jade canopy with seven luminous golden fruit orbs."
+    },
+    {
+      "family": "Starburst",
+      "file": "ForgePass_V2_11_Starburst.png",
+      "bytes": 630398,
+      "sha256": "adc7e7ef938285ec102657a022e5df542c3a41b67fa29bc209bad0e09ba1d7c1",
+      "size": [
+        2048,
+        2048
+      ],
+      "palette": [
+        "#d18b84",
+        "#2d6cc9",
+        "#e6e1d4"
+      ],
+      "path_count": 21,
+      "framing_rings": 3,
+      "nodes": 1,
+      "description": "Twelve slender alternating long and short rays, sparse offshoots and three concentric segmented rings."
+    }
+  ]
+}
