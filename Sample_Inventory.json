@@ -1,0 +1,352 @@
+{
+  "collection": "Forge Pass",
+  "purpose": "Samples from the completed 1,100-artwork collection",
+  "family_count": 11,
+  "artwork_count": 22,
+  "preview_png_count": 11,
+  "volumetric_gif_count": 11,
+  "media_unchanged_from_validated_masters": true,
+  "samples": [
+    {
+      "id": 3,
+      "family": "Circuit",
+      "tier": "Preview",
+      "subtype": "Quad Relay",
+      "file": "Circuit/ForgePass_0003_Circuit_Preview.png",
+      "format": "png",
+      "bytes": 496199,
+      "sha256": "e139c6ad3e26a11107d9ffa9baedb392bc6548be1823086e19110d5cb1e543a8",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 60,
+      "family": "Circuit",
+      "tier": "Volumetric",
+      "subtype": "Split Wings",
+      "file": "Circuit/ForgePass_0060_Circuit_Volumetric.gif",
+      "format": "gif",
+      "bytes": 8897927,
+      "sha256": "684e8e7e3e9d2c780f73966ec9003ba650f234350993a249d3d3d5fb4bb70081",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    },
+    {
+      "id": 163,
+      "family": "Lightning",
+      "tier": "Preview",
+      "subtype": "Crown Strike",
+      "file": "Lightning/ForgePass_0163_Lightning_Preview.png",
+      "format": "png",
+      "bytes": 841188,
+      "sha256": "020f7ed29c753443269d01a78166f173c63a7240ce96b581571262d22d459ef3",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 130,
+      "family": "Lightning",
+      "tier": "Volumetric",
+      "subtype": "Horizon Storm",
+      "file": "Lightning/ForgePass_0130_Lightning_Volumetric.gif",
+      "format": "gif",
+      "bytes": 7708856,
+      "sha256": "d8f323dc123abb02d6b165baf8b0f7e2eedeacc518619dd78aa877322cbb8297",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    },
+    {
+      "id": 203,
+      "family": "Coral",
+      "tier": "Preview",
+      "subtype": "Four-Lobe Reef",
+      "file": "Coral/ForgePass_0203_Coral_Preview.png",
+      "format": "png",
+      "bytes": 853014,
+      "sha256": "cbfce4ba876ab906f8b88245ff653d848959edb453652ded95fb2cc6d10f5106",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 280,
+      "family": "Coral",
+      "tier": "Volumetric",
+      "subtype": "Crescent Reef",
+      "file": "Coral/ForgePass_0280_Coral_Volumetric.gif",
+      "format": "gif",
+      "bytes": 9770016,
+      "sha256": "9635fb80a8e01f2a0fa45a6565f77c3c236708cb4542ec7e6f7d292c4f3ebc76",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    },
+    {
+      "id": 303,
+      "family": "Frost",
+      "tier": "Preview",
+      "subtype": "Stellar Snowflake",
+      "file": "Frost/ForgePass_0303_Frost_Preview.png",
+      "format": "png",
+      "bytes": 693271,
+      "sha256": "2ab45552aea29e7f1391ba9191e67fbfc1536a71cea18bb1076afd58dc8af67b",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 370,
+      "family": "Frost",
+      "tier": "Volumetric",
+      "subtype": "Diagonal Comb",
+      "file": "Frost/ForgePass_0370_Frost_Volumetric.gif",
+      "format": "gif",
+      "bytes": 8735759,
+      "sha256": "10bfe3b0951cb12ef292048185cc266fe4ea1a173fe64638851c3c2a72b5377f",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    },
+    {
+      "id": 413,
+      "family": "Roots",
+      "tier": "Preview",
+      "subtype": "Radial Root Web",
+      "file": "Roots/ForgePass_0413_Roots_Preview.png",
+      "format": "png",
+      "bytes": 712328,
+      "sha256": "2ff52620b98d7443c50855a16d3e15e56ae00a7a174dc8d4cc938cb6379c7f09",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 460,
+      "family": "Roots",
+      "tier": "Volumetric",
+      "subtype": "Rising Antlers",
+      "file": "Roots/ForgePass_0460_Roots_Volumetric.gif",
+      "format": "gif",
+      "bytes": 11346111,
+      "sha256": "cc4f38a4e9e2def6405b302de0498afcb816076d4b20c83a9ca7f3ebc5ae866a",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    },
+    {
+      "id": 533,
+      "family": "Trident",
+      "tier": "Preview",
+      "subtype": "Cruciform Tridents",
+      "file": "Trident/ForgePass_0533_Trident_Preview.png",
+      "format": "png",
+      "bytes": 703192,
+      "sha256": "af7fa60a53a708e8df0846d138c807ba8c2ad7ad881a80bec260dfbfe7d71beb",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 520,
+      "family": "Trident",
+      "tier": "Volumetric",
+      "subtype": "Opposed Forks",
+      "file": "Trident/ForgePass_0520_Trident_Volumetric.gif",
+      "format": "gif",
+      "bytes": 5706921,
+      "sha256": "1dece2dd0e7b5368ac90243d14340aa23f1ba561103ef90724a53a13a2eba152",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    },
+    {
+      "id": 603,
+      "family": "Crown",
+      "tier": "Preview",
+      "subtype": "Regal Fan",
+      "file": "Crown/ForgePass_0603_Crown_Preview.png",
+      "format": "png",
+      "bytes": 838046,
+      "sha256": "65d0418dc563f2f0a712ddec81ef6a0455c01b8acd7067dc8fcb981bddcfa901",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 650,
+      "family": "Crown",
+      "tier": "Volumetric",
+      "subtype": "Sovereign Spire",
+      "file": "Crown/ForgePass_0650_Crown_Volumetric.gif",
+      "format": "gif",
+      "bytes": 8938942,
+      "sha256": "c0c8d279b6f8f49d06308e4b24447efc1374025080ce5814b536cd9d83f2d30d",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    },
+    {
+      "id": 723,
+      "family": "Lattice",
+      "tier": "Preview",
+      "subtype": "Hexagonal Truss",
+      "file": "Lattice/ForgePass_0723_Lattice_Preview.png",
+      "format": "png",
+      "bytes": 876189,
+      "sha256": "68ab943fd9403d5bb06e2dbfc6365f8dd53bd93a443566cd347db4fc16115208",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 740,
+      "family": "Lattice",
+      "tier": "Volumetric",
+      "subtype": "Hourglass Span",
+      "file": "Lattice/ForgePass_0740_Lattice_Volumetric.gif",
+      "format": "gif",
+      "bytes": 5936966,
+      "sha256": "8b16285227bf06b53efb8ac5ba9b42f16bc1cdce885a42da18b8434afbf0fc7e",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    },
+    {
+      "id": 803,
+      "family": "Cascade",
+      "tier": "Preview",
+      "subtype": "Silver Curtain",
+      "file": "Cascade/ForgePass_0803_Cascade_Preview.png",
+      "format": "png",
+      "bytes": 717548,
+      "sha256": "89e7426f1245d4f8191f0cfc2c5845e70577b5e223d743ebed7534bf0d60d68e",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 830,
+      "family": "Cascade",
+      "tier": "Volumetric",
+      "subtype": "Side Waterfall",
+      "file": "Cascade/ForgePass_0830_Cascade_Volumetric.gif",
+      "format": "gif",
+      "bytes": 8802797,
+      "sha256": "440501bffcd51729778d7886a4efb8708522718611d4ab31f91068a4460a2ca9",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    },
+    {
+      "id": 943,
+      "family": "Bonsai",
+      "tier": "Preview",
+      "subtype": "Umbrella Canopy",
+      "file": "Bonsai/ForgePass_0943_Bonsai_Preview.png",
+      "format": "png",
+      "bytes": 587806,
+      "sha256": "efdd46ee5011a1db8c170093febe188d28eb6a01390b7e06fbef8f0c042d5597",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 930,
+      "family": "Bonsai",
+      "tier": "Volumetric",
+      "subtype": "Windswept",
+      "file": "Bonsai/ForgePass_0930_Bonsai_Volumetric.gif",
+      "format": "gif",
+      "bytes": 8084890,
+      "sha256": "5ea33d3eaf52badb4b687978a53a678b30d1a2da0158db5a2ef00d4fcf8ace1c",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    },
+    {
+      "id": 1023,
+      "family": "Starburst",
+      "tier": "Preview",
+      "subtype": "Twelve Ray Corona",
+      "file": "Starburst/ForgePass_1023_Starburst_Preview.png",
+      "format": "png",
+      "bytes": 622585,
+      "sha256": "eea4d7aff1a0d11dd4ee6c99a8a26132a1be029f514699587064b8f25a1c7751",
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "id": 1070,
+      "family": "Starburst",
+      "tier": "Volumetric",
+      "subtype": "Stacked Suns",
+      "file": "Starburst/ForgePass_1070_Starburst_Volumetric.gif",
+      "format": "gif",
+      "bytes": 7660634,
+      "sha256": "c667720a6dc38033ff722e209fe9db905e7df79a29ece2c05e4dcde55e161635",
+      "size": [
+        1000,
+        1000
+      ],
+      "duration_ms": 12000,
+      "fps": 20,
+      "loop": 0
+    }
+  ]
+}
